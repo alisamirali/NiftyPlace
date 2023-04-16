@@ -1,10 +1,11 @@
 {
   "expo": {
     "name": "NiftyPlace",
-    "slug": "NiftyPlace",
+    "slug": "nifty-place",
+    "description": "Discover the premier selection of NFTs and engage in buying and selling your own NFTs.",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/avatars/avatar04.jpg",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
